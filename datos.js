@@ -7,5 +7,6 @@
     { "partido": "Podemos", "votantes": 10.0 },
     { "partido": "Convergència (CDC)", "votantes": 4.9 },
     { "partido": "ERC", "votantes": 8.1 },
-    { "partido": "ICV", "votantes": 7.4 }
+    { "partido": "ICV", "votantes": 7.4 },
+    { "partido": "JLT", "votantes": 9.4 }
 ]
