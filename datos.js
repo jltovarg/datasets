@@ -1,12 +1,12 @@
 [
-    { "partido": "PP", "votantes": 8.5 },
-    { "partido": "PSOE", "votantes": 6.7 },
-    { "partido": "IU", "votantes": 9.2 },
-    { "partido": "UPyD", "votantes": 7.8 },
-    { "partido": "Ciudadanos", "votantes": 5.3 },
-    { "partido": "Podemos", "votantes": 10.0 },
-    { "partido": "Convergència (CDC)", "votantes": 4.9 },
-    { "partido": "ERC", "votantes": 8.1 },
-    { "partido": "ICV", "votantes": 7.4 },
-    { "partido": "JLT", "votantes": 9.4 }
+    {"alumno":"Jose Luis Tovar","nota":10,"ranking":1},
+    {"alumno":"Isabel Rosero","nota":9.5,"ranking":2},
+    {"alumno":"Laura Muñoz","nota":9,"ranking":3},
+    {"alumno":"Natalia Rosero","nota":8.9,"ranking":4},
+    {"alumno":"Tulio Tobar","nota":8.2,"ranking":5},
+    {"alumno":"Ines Guerrero","nota":7.6,"ranking":6},
+    {"alumno":"Rosa Rodriguez","nota":7,"ranking":7},
+    {"alumno":"Carlos Maya","nota":6.9,"ranking":8},
+    {"alumno":"Ricardo Martinez","nota":6.4,"ranking":9},
+
 ]
