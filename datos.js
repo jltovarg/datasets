@@ -7,6 +7,6 @@
     {"alumno":"Ines Guerrero","nota":7.6,"ranking":6},
     {"alumno":"Rosa Rodriguez","nota":7,"ranking":7},
     {"alumno":"Carlos Maya","nota":6.9,"ranking":8},
-    {"alumno":"Ricardo Martinez","nota":6.4,"ranking":9},
+    {"alumno":"Ricardo Martinez","nota":6.4,"ranking":9}
 
 ]
